@@ -23,5 +23,5 @@
 <div> 
  IT by IFPR
  Python Developer at M!Labs
-  ![Snake animation](https://github.com/igor-kaligor/igor-kaligor/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/igor-kaligor/igor-kaligor/github-contribution-grid-snake.svg)
 </div>

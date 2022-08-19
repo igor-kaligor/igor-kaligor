@@ -1,4 +1,9 @@
 ## Igor de Castro :)
+<div>
+   
+  Python Developer at M!Labs 
+  <img align="right" alt="Mixtel" src="https://github.com/igor-kaligor/igor-kaligor/blob/main/logo2021.png">
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-de-castro-461332208/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-kaligor&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -17,11 +22,11 @@
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Igor-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
-  
+
   ##
  
 <div> 
- IT by IFPR
- Python Developer at M!Labs
-   ![Snake animation](https://github.com/igor-kaligor/igor-kaligor/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  ![Snake animation](https://github.com/igor-kaligor/igor-kaligor/blob/output/github-contribution-grid-snake.svg)
 </div>

@@ -1,8 +1,9 @@
 ## Igor de Castro :)
 <div>
    
-  Python Developer at M!Labs 
-  <img align="right" alt="Mixtel" src="https://github.com/igor-kaligor/igor-kaligor/blob/main/logo2021.png">
+  JR Software Engineer at FastSoluções 
+  <img align="right" style="width:50px" alt="Fast" src="https://www.fastsolucoes.com.br/pt/assets/images/FAST-LOGO-33.svg">
+   <br>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-de-castro-461332208/">

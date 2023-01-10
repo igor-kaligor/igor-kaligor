@@ -2,7 +2,7 @@
 <div>
    
   JR Software Engineer at FastSoluções 
-  <img align="right" style="width:50px" alt="Fast" src="https://www.fastsolucoes.com.br/pt/assets/images/FAST-LOGO-33.svg">
+  <a href="https://www.fastsolucoes.com.br"><img align="right" style="width:50px" alt="Fast" src="https://www.fastsolucoes.com.br/pt/assets/images/FAST-LOGO-33.svg"></a>
    <br>
 </div>
 <div align="center">

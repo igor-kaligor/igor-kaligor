@@ -2,8 +2,7 @@
 <div>
    
   JR Software Engineer at FastSoluções 
-  <a href="https://www.fastsolucoes.com.br"><img align="right" style="width:50px" alt="Fast" src="https://www.fastsolucoes.com.br/pt/assets/images/FAST-LOGO-33.svg"></a>
-   <br>
+  <a href="https://www.fastsolucoes.com.br"><img align="right" style="width:32px" alt="Fast" src="https://www.fastsolucoes.com.br/pt/assets/images/FAST-LOGO-33.svg"></a>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/igor-de-castro-461332208/">

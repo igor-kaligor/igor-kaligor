@@ -1,7 +1,7 @@
 ## Igor de Castro :)
 <div>
    
-  JR Software Engineer at FastSoluções 
+  Middle Software Engineer at FastSoluções 
   <a href="https://www.fastsolucoes.com.br"><img align="right" style="width:32px" alt="Fast" src="https://www.fastsolucoes.com.br/pt/assets/images/FAST-LOGO-33.svg"></a>
 </div>
 <div align="center">
